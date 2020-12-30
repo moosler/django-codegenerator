@@ -11,5 +11,5 @@
  - copy your models.py in the repo root folder
  - in your console type 
  ```bash 
- python gen.oy
+ python gen.py
  ```
